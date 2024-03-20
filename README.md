@@ -8,6 +8,6 @@ Each laboral day I want do a different language as I want to improve my knowledg
 
 - Monday → [C++](https://github.com/fcoterroba/CodeWars/tree/main/cpp)
 - Tuesday → [C#](https://github.com/fcoterroba/CodeWars/tree/main/csharp)
-- Wednesday → Go
+- Wednesday → [Go](https://github.com/fcoterroba/CodeWars/tree/main/go)
 - Thursday → PHP
 - Friday → Python
