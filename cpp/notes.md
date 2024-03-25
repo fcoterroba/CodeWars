@@ -13,3 +13,9 @@ For print text, you need first use the **std** namespace like `using namespace s
 ## Functions
 
 The parameters of the functions must include the expected type of parameter at the beginning and at the end like `int32_t double_integer(int32_t n)`
+
+## Useful functions
+
+### stoi (String TO Integer)
+
+With `stoi(variable)` you can convert a string into a integer. (stoi is abreviation of "**S**tring **TO** **I**nteger")
