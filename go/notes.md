@@ -19,6 +19,9 @@ If you need to pass an array to a function's call, you need to create a variable
 - Recieve an array of integers with `numbers` as name
 - Return a simple integer
 
+### Integer to String
+
+You can use the function `strconv.FormatInt(int64(yourVariableOrNumber), 10)`. Remember import the library first using `import ("strconv")`
 
 ## Foreach
 
