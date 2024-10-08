@@ -2,7 +2,7 @@
 
 This repository contains my daily solutions to CodeWars katas. From Tuesday to Friday (working days in Spain), I will upload a solution to a kata every day.
 
-- C#
+- [C#](https://github.com/fcoterroba/CodeWars/blob/main/CS)
 - Go
 - PHP
 - Python
