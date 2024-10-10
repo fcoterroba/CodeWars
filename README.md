@@ -4,7 +4,7 @@ This repository contains my daily solutions to CodeWars katas. From Tuesday to F
 
 - [C#](https://github.com/fcoterroba/CodeWars/blob/main/CS)
 - Go
-- PHP
+- [PHP](https://github.com/fcoterroba/CodeWars/blob/main/PHP)
 - Python
 
 Feel free to check out my solutions and provide feedback or suggestions!
