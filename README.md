@@ -3,7 +3,7 @@
 Welcome to **CodeWars**, where I commit to uploading my solutions to coding katas every weekday. This repository is all about continuous improvement and tackling coding challenges across various programming languages.
 
 ## 🗓️ Weekly Schedule
-- **Monday**: PHP 🐘
+- **Monday**: [PHP 🐘](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
 - **Tuesday**: Python 🐍
 - **Wednesday**: C# 💻
 - **Thursday**: Go 🦫
