@@ -4,7 +4,7 @@ Welcome to **CodeWars**, where I commit to uploading my solutions to coding kata
 
 ## 🗓️ Weekly Schedule
 - **Monday**: [PHP 🐘](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
-- **Tuesday**: Python 🐍
+- **Tuesday**: [Python 🐍](https://github.com/fcoterroba/CodeWars/tree/main/Python)
 - **Wednesday**: C# 💻
 - **Thursday**: Go 🦫
 - **Friday**: Rust 🦀
