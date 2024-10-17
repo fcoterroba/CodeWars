@@ -6,7 +6,7 @@ Welcome to **CodeWars**, where I commit to uploading my solutions to coding kata
 - **Monday**: [PHP 🐘](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
 - **Tuesday**: [Python 🐍](https://github.com/fcoterroba/CodeWars/tree/main/Python)
 - **Wednesday**: [C# 💻](https://github.com/fcoterroba/CodeWars/tree/main/CS)
-- **Thursday**: Go 🦫
+- **Thursday**: [Go 🦫](https://github.com/fcoterroba/CodeWars/tree/main/Go)
 - **Friday**: Rust 🦀
 
 ## 🚀 Goal
