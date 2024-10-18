@@ -7,7 +7,7 @@ Welcome to **CodeWars**, where I commit to uploading my solutions to coding kata
 - **Tuesday**: [Python 🐍](https://github.com/fcoterroba/CodeWars/tree/main/Python)
 - **Wednesday**: [C# 💻](https://github.com/fcoterroba/CodeWars/tree/main/CS)
 - **Thursday**: [Go 🦫](https://github.com/fcoterroba/CodeWars/tree/main/Go)
-- **Friday**: Rust 🦀
+- **Friday**: [Rust 🦀](https://github.com/fcoterroba/CodeWars/tree/main/Rust)
 
 ## 🚀 Goal
 My goal is to improve my coding skills by solving one kata each day in the language assigned for that day. This journey is all about consistency and learning something new every day.
