@@ -26,3 +26,15 @@
   - This method is **static** (`static`), that means that you can call the function without create a `Kata` object
   - **Params**:  
     - Recieve an intergers array called as *args* (`int[] args`).
+
+---
+
+## Variables
+
+- In C#, you can create variables using the type of variable & the name, like `int result = 0;`
+
+---
+
+## Arrays
+
+- For create arrays in C#, you need to create them like variables, setting the type of them. `int[] myNum = {1, 2, 2};`
