@@ -4,7 +4,8 @@ Every workable day on Spain I'll make a Codewars' kata and then upload it here.
 I'm PHP & Python developer so these katas will be in "Rank up" focus but I'm learning C#, C++ & Rust so they'll be as "fundamentals'" focus.
 
 ## 📋 Table of contents
-- [Monday of PHP](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
+- [PHP 🐘](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
+- [C++ ⚙️](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
 
 ## 📂 Structure
 Inside each folder there are two folders, one of MY solutions and another one for other people's solutions. Feel free to make a PR with your solution inside there.
