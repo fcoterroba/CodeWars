@@ -7,6 +7,7 @@ I'm PHP & Python developer so these katas will be in "Rank up" focus but I'm lea
 - [Monday -> PHP 🐘](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
 - [Tuesday -> C++ ⚙️](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
 - [Wednesday -> Python 🐍](https://github.com/fcoterroba/CodeWars/tree/main/Python)
+- [Thursday -> C# 🛢](https://github.com/fcoterroba/CodeWars/tree/main/CS)
 
 ## 📂 Structure
 Inside each folder there are two folders, one of MY solutions and another one for other people's solutions. Feel free to make a PR with your solution inside there.
