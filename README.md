@@ -7,7 +7,7 @@ This repository documents my weekly 5 katas aimed at learning the languages I co
 Each day of the week is dedicated to a different language:
 
 - **Monday**: **C#**
-- **Tuesday**: **Python**
+- **Tuesday**: [**Python**](https://github.com/fcoterroba/CodeWars/tree/main/Python)
 - **Wednesday**: **C++** 
 - **Thursday**: **PHP**
 - **Friday**: **Rust** 
