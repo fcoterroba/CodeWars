@@ -8,7 +8,7 @@ Each day of the week is dedicated to a different language:
 
 - **Monday**: **C#**
 - **Tuesday**: [**Python**](https://github.com/fcoterroba/CodeWars/tree/main/Python)
-- **Wednesday**: **C++** 
+- **Wednesday**: [**C++**](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
 - **Thursday**: **PHP**
 - **Friday**: **Rust** 
 
