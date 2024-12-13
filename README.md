@@ -10,7 +10,7 @@ Each day of the week is dedicated to a different language:
 - **Tuesday**: [**Python**](https://github.com/fcoterroba/CodeWars/tree/main/Python)
 - **Wednesday**: [**C++**](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
 - **Thursday**: [**PHP**](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
-- **Friday**: **Rust** 
+- **Friday**: [**Rust**](https://github.com/fcoterroba/CodeWars/tree/main/Rust)
 
 ## How to Contribute
 
