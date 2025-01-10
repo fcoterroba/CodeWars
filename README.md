@@ -7,7 +7,7 @@ Every weekday, I tackle a kata in one of these 5 languages:
 - 🐘 **PHP**  
 - 🦀 **Rust**  
 - ⚙️ **C++**  
-- 🎮 **C#**  
+- 🎮 [**C#**](https://github.com/fcoterroba/CodeWars/tree/main/CS)
 
 You’re welcome to contribute **your own unique solutions** for the katas in any of these languages! Just make sure your solution differs from the ones already uploaded.  
 
