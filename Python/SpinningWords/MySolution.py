@@ -5,5 +5,5 @@ def spin_words(sentence):
         result += " "
     return result.strip()
 
-# Original kata: https://www.codewars.com/kata/reviews/55401901b8a14241e4000048/groups/6282751e90fd720001a46476
-# My solution: 
+# Original kata: https://www.codewars.com/kata/5264d2b162488dc400000001
+# My solution: https://www.codewars.com/kata/reviews/55401901b8a14241e4000048/groups/6282751e90fd720001a46476
