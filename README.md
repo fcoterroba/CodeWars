@@ -4,7 +4,7 @@ Welcome! This is a space for programmers to sharpen their skills, share knowledg
 ## 🔍 What is this about?  
 Every weekday, I tackle a kata in one of these 5 languages:  
 - Monday 🐍 [**Python**](https://github.com/fcoterroba/CodeWars/tree/main/Python)
-- 🐘 **PHP**  
+- Tuesday 🐘 [**PHP**](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
 - 🦀 **Rust**  
 - ⚙️ **C++**  
 - Friday 🎮 [**C#**](https://github.com/fcoterroba/CodeWars/tree/main/CS)
