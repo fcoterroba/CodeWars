@@ -17,3 +17,7 @@ match myVariable {
   _ => "The rest",
 }
 ```
+
+## Printing variables
+
+In Rust, to print variables, you need to print them using `format!("Hello! Your name is: {}", name)`
