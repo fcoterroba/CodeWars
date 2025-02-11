@@ -20,30 +20,29 @@ To keep things organized, the repo is structured as follows:
 CodeWars/
 ├── python/
 │   ├── kata-name/
-│   │   ├── my-solution.py
-│   │   ├── other-solution1.py
-│   │   └── other-solution2.py
+│   │   ├── MySoltion.py
+│   │   └── <YourName>Solution.py
 ├── php/
 │   ├── kata-name/
 │   │   ├── my-solution.php
-│   │   └── other-solution1.php
+│   │   └── <YourName>Solution.php
 ├── rust/
 │   ├── kata-name/
 │   │   ├── my-solution.rs
-│   │   ├── other-solution1.rs
+│   │   └── <YourName>Solution.rs
 ├── cpp/
 │   ├── kata-name/
 │   │   ├── my-solution.cpp
-│   │   └── other-solution1.cpp
+│   │   └── <YourName>Solution.cpp
 ├── csharp/
 │   ├── kata-name/
 │   │   ├── my-solution.cs
-│   │   └── other-solution1.cs
+│   │   └── <YourName>Solution.cs
 └── README.md
 ```
 
 - Each **language folder** contains subfolders named after the katas.  
-- Inside each kata folder, you’ll find the solutions with filenames like `my-solution` or `other-solutionX`.  
+- Inside each kata folder, you’ll find the solutions with filenames like `MySolution` for my solution or upload yours using `<YourName>Solution`.  
 
 ---
 
@@ -52,11 +51,9 @@ We’d love to see your unique approaches! Here’s how you can contribute:
 
 1. **Fork the repository** and clone it to your machine.  
 2. Navigate to the correct language and kata folder.  
-3. Add your solution with a filename like `other-solutionX`.  
+3. Add your solution with a filename like `<YourName>Solution`.  
 4. Commit and push your changes.  
 5. Open a **pull request** explaining why your solution is unique or interesting!  
-
-> 💡 **Note:** Please keep your code clean and well-commented to help others understand your thought process.  
 
 ---
 
