@@ -6,7 +6,7 @@ Public repo where I upload the katas I've solved
 
 - Monday: [C++](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
 - Tuesday: [C#](https://github.com/fcoterroba/CodeWars/tree/main/CS)
-- Wednesday: [Rust](https://github.com/fcoterroba/CodeWars/tree/main/RS)
+- Wednesday: [Rust](https://github.com/fcoterroba/CodeWars/tree/main/Rust)
 
 ## Contributions
 
