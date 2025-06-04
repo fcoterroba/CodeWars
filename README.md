@@ -4,7 +4,9 @@ Public repo where I upload the katas I've solved
 
 ## Structure
 
-- Monday: [CPP](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
+- Monday: [C++](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
+- Tuesday: [C#](https://github.com/fcoterroba/CodeWars/tree/main/CS)
+- Wednesday: [Rust](https://github.com/fcoterroba/CodeWars/tree/main/RS)
 
 ## Contributions
 
