@@ -8,6 +8,8 @@ Public repo where I upload the katas I've solved
 - Tuesday: [C#](https://github.com/fcoterroba/CodeWars/tree/main/CS)
 - Wednesday: [Rust](https://github.com/fcoterroba/CodeWars/tree/main/Rust)
 - Thursday: [PHP](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
+- Friday: [Python](https://github.com/fcoterroba/CodeWars/tree/main/Python)
+
 
 ## Contributions
 
