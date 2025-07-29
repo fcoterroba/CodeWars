@@ -9,4 +9,5 @@ Feel free to contribute with your solution if there isn't uploaded before.
 ## Folder structure
 
 - Monday -> [C++](https://github.com/fcoterroba/CodeWars/tree/main/CPP/)
+- Thursday -> [C#](https://github.com/fcoterroba/CodeWars/tree/main/CS/)
 - Wednesday -> [Rust](https://github.com/fcoterroba/CodeWars/tree/main/Rust/)
